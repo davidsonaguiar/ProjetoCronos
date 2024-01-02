@@ -21,4 +21,4 @@ O display mostra a ordem em que os botões foram pressionados, proporcionando um
 - LEDs para sinalização no controle do professor.
 - Fios de conexão.
 ## Esquema
-![Esquema do projeto cronos]("../").
+![Esquema do projeto cronos]("./esquema.jpeg").
